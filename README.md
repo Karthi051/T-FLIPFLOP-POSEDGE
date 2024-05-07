@@ -43,8 +43,7 @@ From the above characteristic table, we can directly write the next state equati
 **PROGRAM**
 
 ```
-Developed by : M.Hashwatha
-Register Number : 212223240051
+
 
 module TFLIPFLOPPOSEDGE( input clk, rst_n, input t,
 output reg q,
